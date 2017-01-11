@@ -9,6 +9,7 @@ const setting = require('./libs/settings');
 const middleware = require('./libs/middleware');
 const router = require('./libs/router');
 const dirname = __dirname;
+
 // 配置log4js 全局通用 只需设置一次
 log4js.configure({
     appenders: [{

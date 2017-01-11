@@ -57,6 +57,8 @@ jspm_packages
 .sass-cache
 /config.json
 config.json
+/config.yml
+config.yml
 /data
 node_modules/*
 node_modules
