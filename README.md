@@ -11,6 +11,7 @@ A FE-development project base on gulp,webpack,node
 * react 框架
 * 日志记录
 * 路由
+* 支持ejs
 
 ###配置
 ---
